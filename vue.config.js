@@ -26,7 +26,8 @@ module.exports = {
           '^/res': ''
         }
       }
-    }
+    },
+    port: 1234
   },
   lintOnSave: false, // 直接关闭eslint检查规则关闭了
   configureWebpack: config => {

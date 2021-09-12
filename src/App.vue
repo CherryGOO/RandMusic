@@ -1,9 +1,8 @@
 <template>
   <div id="app">
-    <div class="background">
+    <!-- <div class="background">
       <div class="back-img"></div>
-      <!-- <img src="./assets/OS/background.jpg" alt=""> -->
-    </div>
+    </div> -->
     <router-view/>
   </div>
 </template>
